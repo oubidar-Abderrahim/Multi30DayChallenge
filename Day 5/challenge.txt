@@ -1,0 +1,2 @@
+Given an integer, n, print its first 10 multiples. Each multiple n x i (where i is between 1 and 10 inclusive) 
+should be printed on a new line in the form: n x i = result.
